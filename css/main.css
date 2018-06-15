@@ -225,6 +225,6 @@ a:hover {
       'read-more';
   }
   #read-more {
-    width: 94%;
+    box-sizing: border-box;
   }
 }
